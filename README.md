@@ -59,6 +59,7 @@ When you finish, you'll have an idea of some things possible using just the Pyth
 You'll have generated several new data files.
 The streaming process will run continuously for quite a while. 
 Read the comments in the file to learn how to stop the process.
+Click in terminal and then ctrl-c
 
 ## Update Edit README
 
