@@ -1,21 +1,19 @@
-"""
 
-Streaming Process: Uses port 9999
 
-Create a fake stream of data. 
-Use temperature data from the batch process.
 
-Reverse the order of the rows to read OLDEST data first.
+#Create a fake stream of data. 
+#Use temperature data from the batch process.
 
-Important! 
+#Reverse the order of the rows to read OLDEST data first.
 
-We'll stream forever - or until we read the end of the file. 
-Use use Ctrl-C to stop. (Hit Control key and c key at the same time.)
+#Important! 
 
-Explore more at 
-https://wiki.python.org/moin/UdpCommunication
+#We'll stream forever - or until we read the end of the file. 
+#Use use Ctrl-C to stop. (Hit Control key and c key at the same time.)
 
-"""
+#Explore more at 
+#https://wiki.python.org/moin/UdpCommunication
+
 
 # Import from Python Standard Library
 
